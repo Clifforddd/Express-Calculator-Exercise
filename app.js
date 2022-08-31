@@ -1,5 +1,5 @@
 const express = require('express');
-const { convertAndValidateNumsArray, getMode, getMean, getMedian } = require('./function');
+const { convertAndValidateNumsArray, getMode, getMean, getMedian } = require('./helper');
 
 
 const app = express();
